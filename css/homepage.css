@@ -1,0 +1,19 @@
+
+body {
+	background-image:url("../img/homepage.jpg");
+	background-size: cover;
+}
+
+.col-md-8
+ {height: 450px;
+ }
+.col-md-4
+ {height: 450px;
+}
+.col-md-6 {
+    padding-left: 80px}
+
+.enter {font-size: 50px;
+	font-color:white;
+	font-style: "elephant";
+}
